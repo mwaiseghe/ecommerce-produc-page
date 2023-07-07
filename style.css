@@ -171,9 +171,13 @@
     font-size: 0.95em;
     letter-spacing: 0.4px;
     margin-left: 15px;
-    color: white;
+    color: hsl(0, 0%, 100%);
     font-weight: 700;
     font-family: "Kumbh Sans", sans-serif;
-    transition: ease 0.2s;
+}
+
+.add-to-cart a {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
 }
 
